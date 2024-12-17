@@ -1,0 +1,3 @@
+SerialPlugin : v3.0.3
+UnityPlotter : v1.0.2
+UnityUI : v1.0.1

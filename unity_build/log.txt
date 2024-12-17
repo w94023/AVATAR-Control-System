@@ -1,0 +1,231 @@
+ 
+ 
+////////////////////////////////////////////////////////////
+2024-12-17-20-15-10
+Instance created
+////////////////////////////////////////////////////////////
+ 
+ 
+ 
+ 
+////////////////////////////////////////////////////////////
+2024-12-17-20-15-11
+Device scan requested
+////////////////////////////////////////////////////////////
+ 
+ 
+ScanDevices() - 디바이스 스캔 시작
+Device name : STMicroelectronics STLink Virtual COM Port(COM8)
+Device ID : USB\VID_0483&PID_374B&MI_02\7&32CEAB1E&0&0002
+Device hardware ID : USB\VID_0483&PID_374B&REV_0100&MI_02
+Device class : Ports
+Device name : 통신 포트(COM1)
+Device ID : ACPI\PNP0501\1
+Device hardware ID : ACPI\VEN_PNP&DEV_0501
+Device class : Ports
+Device name : 표준 Bluetooth에서 직렬 링크(COM13)
+Device ID : BTHENUM\{00001101-0000-1000-8000-00805F9B34FB}_VID&0001000E_PID&3412\7&33CF4A32&0&98DA600BACE4_C00000000
+Device hardware ID : BTHENUM\{00001101-0000-1000-8000-00805f9b34fb}_VID&0001000e_PID&3412
+Device class : Ports
+Device name : USB Serial Port(COM3)
+Device ID : FTDIBUS\VID_0403+PID_6001+A50285BIA\0000
+Device hardware ID : FTDIBUS\COMPORT&VID_0403&PID_6001
+Device class : Ports
+Device name : 표준 Bluetooth에서 직렬 링크(COM11)
+Device ID : BTHENUM\{00001101-0000-1000-8000-00805F9B34FB}_LOCALMFG&0000\7&33CF4A32&0&000000000000_00000057
+Device hardware ID : BTHENUM\{00001101-0000-1000-8000-00805f9b34fb}_LOCALMFG&0000
+Device class : Ports
+Device name : 표준 Bluetooth에서 직렬 링크(COM61)
+Device ID : BTHENUM\{00001101-0000-1000-8000-00805F9B34FB}_LOCALMFG&0000\7&33CF4A32&0&000000000000_00000072
+Device hardware ID : BTHENUM\{00001101-0000-1000-8000-00805f9b34fb}_LOCALMFG&0000
+Device class : Ports
+Device name : BCTEST1
+Device ID : BTHLE\DEV_98DA600BACE4\7&295549B9&0&98DA600BACE4
+Device hardware ID : BTHLE\Dev_98da600bace4
+Device class : Bluetooth
+Failed to get device name, i : 1, error code : 13
+Failed to get device name, i : 2, error code : 13
+Device name : BCTEST1
+Device ID : BTHENUM\DEV_98DA600BACE4\7&18731015&0&BLUETOOTHDEVICE_98DA600BACE4
+Device hardware ID : BTHENUM\Dev_98DA600BACE4
+Device class : Bluetooth
+Failed to get device name, i : 4, error code : 13
+Failed to get device name, i : 5, error code : 13
+Failed to get device name, i : 6, error code : 13
+Failed to get device name, i : 7, error code : 13
+Device name : Britz W800BT Qplus Avrcp 전송
+Device ID : BTHENUM\{0000110C-0000-1000-8000-00805F9B34FB}_VID&0001000A_PID&FFFF\7&18731015&0&0CAEBDB5FCAE_C00000000
+Device hardware ID : BTHENUM\{0000110c-0000-1000-8000-00805f9b34fb}_VID&0001000a_PID&ffff
+Device class : Bluetooth
+Device name : Britz W800BT Qplus
+Device ID : BTHENUM\DEV_0CAEBDB5FCAE\7&18731015&0&BLUETOOTHDEVICE_0CAEBDB5FCAE
+Device hardware ID : BTHENUM\Dev_0CAEBDB5FCAE
+Device class : Bluetooth
+Device name : Britz W800BT Qplus Avrcp 전송
+Device ID : BTHENUM\{0000110E-0000-1000-8000-00805F9B34FB}_VID&0001000A_PID&FFFF\7&18731015&0&0CAEBDB5FCAE_C00000000
+Device hardware ID : BTHENUM\{0000110e-0000-1000-8000-00805f9b34fb}_VID&0001000a_PID&ffff
+Device class : Bluetooth
+Failed to get device name, i : 11, error code : 13
+Failed to get device name, i : 12, error code : 13
+[, 0] PortScanner::ScanDevices - 스캔 완료
+[, 0] PortScanner::ScanDevices - deviceCount : 10
+ScanDevices() - OnScanEnded 이벤트 호출
+ScanDevices() - 디바이스 스캔 종료
+ 
+ 
+////////////////////////////////////////////////////////////
+2024-12-17-20-15-12
+Device scan requested
+////////////////////////////////////////////////////////////
+ 
+ 
+ScanDevices() - 디바이스 스캔 시작
+Device name : STMicroelectronics STLink Virtual COM Port(COM8)
+Device ID : USB\VID_0483&PID_374B&MI_02\7&32CEAB1E&0&0002
+Device hardware ID : USB\VID_0483&PID_374B&REV_0100&MI_02
+Device class : Ports
+Device name : 통신 포트(COM1)
+Device ID : ACPI\PNP0501\1
+Device hardware ID : ACPI\VEN_PNP&DEV_0501
+Device class : Ports
+Device name : 표준 Bluetooth에서 직렬 링크(COM13)
+Device ID : BTHENUM\{00001101-0000-1000-8000-00805F9B34FB}_VID&0001000E_PID&3412\7&33CF4A32&0&98DA600BACE4_C00000000
+Device hardware ID : BTHENUM\{00001101-0000-1000-8000-00805f9b34fb}_VID&0001000e_PID&3412
+Device class : Ports
+Device name : USB Serial Port(COM3)
+Device ID : FTDIBUS\VID_0403+PID_6001+A50285BIA\0000
+Device hardware ID : FTDIBUS\COMPORT&VID_0403&PID_6001
+Device class : Ports
+Device name : 표준 Bluetooth에서 직렬 링크(COM11)
+Device ID : BTHENUM\{00001101-0000-1000-8000-00805F9B34FB}_LOCALMFG&0000\7&33CF4A32&0&000000000000_00000057
+Device hardware ID : BTHENUM\{00001101-0000-1000-8000-00805f9b34fb}_LOCALMFG&0000
+Device class : Ports
+Device name : 표준 Bluetooth에서 직렬 링크(COM61)
+Device ID : BTHENUM\{00001101-0000-1000-8000-00805F9B34FB}_LOCALMFG&0000\7&33CF4A32&0&000000000000_00000072
+Device hardware ID : BTHENUM\{00001101-0000-1000-8000-00805f9b34fb}_LOCALMFG&0000
+Device class : Ports
+Device name : BCTEST1
+Device ID : BTHLE\DEV_98DA600BACE4\7&295549B9&0&98DA600BACE4
+Device hardware ID : BTHLE\Dev_98da600bace4
+Device class : Bluetooth
+Failed to get device name, i : 1, error code : 13
+Failed to get device name, i : 2, error code : 13
+Device name : BCTEST1
+Device ID : BTHENUM\DEV_98DA600BACE4\7&18731015&0&BLUETOOTHDEVICE_98DA600BACE4
+Device hardware ID : BTHENUM\Dev_98DA600BACE4
+Device class : Bluetooth
+Failed to get device name, i : 4, error code : 13
+Failed to get device name, i : 5, error code : 13
+Failed to get device name, i : 6, error code : 13
+Failed to get device name, i : 7, error code : 13
+Device name : Britz W800BT Qplus Avrcp 전송
+Device ID : BTHENUM\{0000110C-0000-1000-8000-00805F9B34FB}_VID&0001000A_PID&FFFF\7&18731015&0&0CAEBDB5FCAE_C00000000
+Device hardware ID : BTHENUM\{0000110c-0000-1000-8000-00805f9b34fb}_VID&0001000a_PID&ffff
+Device class : Bluetooth
+Device name : Britz W800BT Qplus
+Device ID : BTHENUM\DEV_0CAEBDB5FCAE\7&18731015&0&BLUETOOTHDEVICE_0CAEBDB5FCAE
+Device hardware ID : BTHENUM\Dev_0CAEBDB5FCAE
+Device class : Bluetooth
+Device name : Britz W800BT Qplus Avrcp 전송
+Device ID : BTHENUM\{0000110E-0000-1000-8000-00805F9B34FB}_VID&0001000A_PID&FFFF\7&18731015&0&0CAEBDB5FCAE_C00000000
+Device hardware ID : BTHENUM\{0000110e-0000-1000-8000-00805f9b34fb}_VID&0001000a_PID&ffff
+Device class : Bluetooth
+Failed to get device name, i : 11, error code : 13
+Failed to get device name, i : 12, error code : 13
+[, 0] PortScanner::ScanDevices - 스캔 완료
+[, 0] PortScanner::ScanDevices - deviceCount : 10
+ScanDevices() - OnScanEnded 이벤트 호출
+ScanDevices() - 디바이스 스캔 종료
+ 
+ 
+////////////////////////////////////////////////////////////
+2024-12-17-20-15-13
+Connect requested
+////////////////////////////////////////////////////////////
+ 
+ 
+[8168] ConnectionManager가 생성 되었습니다.
+[COM3, 8168] ConnectionManager::SetDeviceConfig - 설정 완료
+[COM3, 8168] ConnectionManager::Connect - 연결 스레드 시작
+[COM3, 8168] ConnectionManager::Connect - 디바이스 타입 : 1
+[COM3, 8168] ConnectionManager::Connect - port open 요청
+[COM3, 8168] ConnectionManager::Open - port connect 요청
+PortScanner::SetDeviceInfo - set device : COM3, 8168
+Device name : STMicroelectronics STLink Virtual COM Port(COM8)
+Device ID : USB\VID_0483&PID_374B&MI_02\7&32CEAB1E&0&0002
+Device hardware ID : USB\VID_0483&PID_374B&REV_0100&MI_02
+Device class : Ports
+Device name : 통신 포트(COM1)
+Device ID : ACPI\PNP0501\1
+Device hardware ID : ACPI\VEN_PNP&DEV_0501
+Device class : Ports
+Device name : 표준 Bluetooth에서 직렬 링크(COM13)
+Device ID : BTHENUM\{00001101-0000-1000-8000-00805F9B34FB}_VID&0001000E_PID&3412\7&33CF4A32&0&98DA600BACE4_C00000000
+Device hardware ID : BTHENUM\{00001101-0000-1000-8000-00805f9b34fb}_VID&0001000e_PID&3412
+Device class : Ports
+Device name : USB Serial Port(COM3)
+Device ID : FTDIBUS\VID_0403+PID_6001+A50285BIA\0000
+Device hardware ID : FTDIBUS\COMPORT&VID_0403&PID_6001
+Device class : Ports
+Device name : 표준 Bluetooth에서 직렬 링크(COM11)
+Device ID : BTHENUM\{00001101-0000-1000-8000-00805F9B34FB}_LOCALMFG&0000\7&33CF4A32&0&000000000000_00000057
+Device hardware ID : BTHENUM\{00001101-0000-1000-8000-00805f9b34fb}_LOCALMFG&0000
+Device class : Ports
+Device name : 표준 Bluetooth에서 직렬 링크(COM61)
+Device ID : BTHENUM\{00001101-0000-1000-8000-00805F9B34FB}_LOCALMFG&0000\7&33CF4A32&0&000000000000_00000072
+Device hardware ID : BTHENUM\{00001101-0000-1000-8000-00805f9b34fb}_LOCALMFG&0000
+Device class : Ports
+Device name : BCTEST1
+Device ID : BTHLE\DEV_98DA600BACE4\7&295549B9&0&98DA600BACE4
+Device hardware ID : BTHLE\Dev_98da600bace4
+Device class : Bluetooth
+Failed to get device name, i : 1, error code : 13
+Failed to get device name, i : 2, error code : 13
+Device name : BCTEST1
+Device ID : BTHENUM\DEV_98DA600BACE4\7&18731015&0&BLUETOOTHDEVICE_98DA600BACE4
+Device hardware ID : BTHENUM\Dev_98DA600BACE4
+Device class : Bluetooth
+Failed to get device name, i : 4, error code : 13
+Failed to get device name, i : 5, error code : 13
+Failed to get device name, i : 6, error code : 13
+Failed to get device name, i : 7, error code : 13
+Device name : Britz W800BT Qplus Avrcp 전송
+Device ID : BTHENUM\{0000110C-0000-1000-8000-00805F9B34FB}_VID&0001000A_PID&FFFF\7&18731015&0&0CAEBDB5FCAE_C00000000
+Device hardware ID : BTHENUM\{0000110c-0000-1000-8000-00805f9b34fb}_VID&0001000a_PID&ffff
+Device class : Bluetooth
+Device name : Britz W800BT Qplus
+Device ID : BTHENUM\DEV_0CAEBDB5FCAE\7&18731015&0&BLUETOOTHDEVICE_0CAEBDB5FCAE
+Device hardware ID : BTHENUM\Dev_0CAEBDB5FCAE
+Device class : Bluetooth
+Device name : Britz W800BT Qplus Avrcp 전송
+Device ID : BTHENUM\{0000110E-0000-1000-8000-00805F9B34FB}_VID&0001000A_PID&FFFF\7&18731015&0&0CAEBDB5FCAE_C00000000
+Device hardware ID : BTHENUM\{0000110e-0000-1000-8000-00805f9b34fb}_VID&0001000a_PID&ffff
+Device class : Bluetooth
+Failed to get device name, i : 11, error code : 13
+Failed to get device name, i : 12, error code : 13
+[COM3, 8168] PortScanner::ScanDevices - 스캔 완료
+[COM3, 8168] PortScanner::ScanDevices - deviceCount : 10
+장치 검색 성공 : COM3
+[COM3, 8168] ConnectionManager::Open - 데이터 수신 스레드 시작
+ 
+ 
+////////////////////////////////////////////////////////////
+2024-12-17-20-17-02
+Disconnect requested
+////////////////////////////////////////////////////////////
+ 
+ 
+[COM3, 8168] ConnectionManager::Disconnect - 연결 종료 시작
+[COM3, 8168] ConnectionManager::Disconnect - thread stop request 요청
+[COM3, 8168] ConnectionManager::Connect - thread stop request 수신
+[COM3, 8168] ConnectionManager::Close - port close 요청
+[COM3, 8168] ConnectionManager::Disconnect - thread stop request 수신 확인
+[8168] ConnectionManager가 삭제 되었습니다.
+ 
+ 
+////////////////////////////////////////////////////////////
+2024-12-17-20-17-03
+Disconnect requested
+////////////////////////////////////////////////////////////
+ 
+ 
